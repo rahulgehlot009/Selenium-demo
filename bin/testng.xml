@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG session Test Automation suite>">
+<test name="checkout feature test">
+<classes>
+<class name="com.testng.exceptiontimeouttest"/>
+<class name="com.testng.googletest"/>
+
+</classes>
+</test>
+</suite>

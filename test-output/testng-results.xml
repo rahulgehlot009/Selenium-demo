@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="yahoo app test automation suite" duration-ms="7496" started-at="2018-10-04T07:05:41Z" finished-at="2018-10-04T07:05:48Z">
+    <groups>
+    </groups>
+    <test name="yahoo app test" duration-ms="7496" started-at="2018-10-04T07:05:41Z" finished-at="2018-10-04T07:05:48Z">
+      <class name="com.parameters.parametertest">
+        <test-method status="PASS" signature="yahoologintest(java.lang.String, java.lang.String)[pri:0, instance:com.parameters.parametertest@33c7e1bb]" name="yahoologintest" duration-ms="7477" started-at="2018-10-04T07:05:41Z" finished-at="2018-10-04T07:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://login.yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@yahoo.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahoologintest -->
+      </class> <!-- com.parameters.parametertest -->
+    </test> <!-- yahoo app test -->
+  </suite> <!-- yahoo app test automation suite -->
+</testng-results>
